@@ -8,15 +8,5 @@ import Connect from './components/Connect.vue'
     Hello world!
   </h1>
   <Account />
-  <Balance />
   <Connect />
-  <Connections />
-  <SwitchAccount />
-  <SwitchChain />
-  <BlockNumber />
-  <ReadContract />
-  <SendTransaction />
-  <WriteContract />
-  <Client />
-  <ConnectorClient />
 </template>
