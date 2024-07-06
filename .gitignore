@@ -1,0 +1,12 @@
+# origin
+.idea/
+src.sln
+
+# client
+node_modules/
+.vscode/
+.env
+
+# server
+LAVN3.Api/bin/
+LAVN3.Api/obj/
