@@ -1,4 +1,6 @@
-# LAVN3
+# web3-auth-vuejs
+
+WEB3 template project
 
 ## Requirements
 * .NET & SDK 8.0.
